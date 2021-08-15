@@ -1,0 +1,26 @@
+body {
+  background: #424242;
+}
+
+h3,
+input {
+  color: #fff;
+}
+
+.nav-wrapper a {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav-wrapper ul,
+li {
+  height: 100%;
+}
+
+.errors {
+  display: block;
+  color: red;
+  margin-bottom: 8px;
+}
